@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         data.add("13:00-14:00  Анна Зайцева  Руб  true");
         data.add("14:00-19:00  -  -  false");
         data.add("19:00-20:00  кондакова любовь  500  false");
-        data.add("20:00-23:00  -  -  false");
+
         data.add("23:00-23:59  -  -  false");
 
         creat_line(data);
