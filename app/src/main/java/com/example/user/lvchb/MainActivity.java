@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         data.add("14:00-19:00  -  -  false");
         data.add("19:00-20:00  кондакова любовь  500  false");
         data.add("20:00-23:00  -  -  false");
+        data.add("23:00-23:59  -  -  false");
 
         creat_line(data);
         Adapter MyAdapter_= new Adapter_(this,liner){
